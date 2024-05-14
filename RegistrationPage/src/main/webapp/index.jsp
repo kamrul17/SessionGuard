@@ -281,7 +281,7 @@ if(session.getAttribute("name")==null){
 						</div>
 						<!-- Message input-->
 						<div class="form-floating mb-3">
-							<textarea class="form-control" id="message" type="text"
+							<textarea class="form-control" id="message" 
 								placeholder="Enter your message here..." style="height: 10rem"
 								data-sb-validations="required"></textarea>
 							<label for="message">Message</label>
@@ -390,10 +390,7 @@ if(session.getAttribute("name")==null){
 									molestias magnam, recusandae quos quis inventore quisquam velit
 									asperiores, vitae? Reprehenderit soluta, eos quod consequuntur
 									itaque. Nam.</p>
-								<button class="btn btn-primary" href="#!"
-									data-bs-dismiss="modal">
-									<i class="fas fa-times fa-fw"></i> Close Window
-								</button>
+								
 							</div>
 						</div>
 					</div>
@@ -435,10 +432,7 @@ if(session.getAttribute("name")==null){
 									molestias magnam, recusandae quos quis inventore quisquam velit
 									asperiores, vitae? Reprehenderit soluta, eos quod consequuntur
 									itaque. Nam.</p>
-								<button class="btn btn-primary" href="#!"
-									data-bs-dismiss="modal">
-									<i class="fas fa-times fa-fw"></i> Close Window
-								</button>
+								
 							</div>
 						</div>
 					</div>
@@ -480,10 +474,7 @@ if(session.getAttribute("name")==null){
 									molestias magnam, recusandae quos quis inventore quisquam velit
 									asperiores, vitae? Reprehenderit soluta, eos quod consequuntur
 									itaque. Nam.</p>
-								<button class="btn btn-primary" href="#!"
-									data-bs-dismiss="modal">
-									<i class="fas fa-times fa-fw"></i> Close Window
-								</button>
+								
 							</div>
 						</div>
 					</div>
@@ -524,10 +515,7 @@ if(session.getAttribute("name")==null){
 									molestias magnam, recusandae quos quis inventore quisquam velit
 									asperiores, vitae? Reprehenderit soluta, eos quod consequuntur
 									itaque. Nam.</p>
-								<button class="btn btn-primary" href="#!"
-									data-bs-dismiss="modal">
-									<i class="fas fa-times fa-fw"></i> Close Window
-								</button>
+								
 							</div>
 						</div>
 					</div>
@@ -569,7 +557,7 @@ if(session.getAttribute("name")==null){
 									molestias magnam, recusandae quos quis inventore quisquam velit
 									asperiores, vitae? Reprehenderit soluta, eos quod consequuntur
 									itaque. Nam.</p>
-								<button class="btn btn-primary" href="#!"
+								<button class="btn btn-primary" 
 									data-bs-dismiss="modal">
 									<i class="fas fa-times fa-fw"></i> Close Window
 								</button>
@@ -613,7 +601,7 @@ if(session.getAttribute("name")==null){
 									molestias magnam, recusandae quos quis inventore quisquam velit
 									asperiores, vitae? Reprehenderit soluta, eos quod consequuntur
 									itaque. Nam.</p>
-								<button class="btn btn-primary" href="#!"
+								<button class="btn btn-primary" 
 									data-bs-dismiss="modal">
 									<i class="fas fa-times fa-fw"></i> Close Window
 								</button>
