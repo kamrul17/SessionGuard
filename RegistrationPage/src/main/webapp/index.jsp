@@ -605,6 +605,10 @@ if(session.getAttribute("name")==null){
 									data-bs-dismiss="modal">
 									<i class="fas fa-times fa-fw"></i> Close Window
 								</button>
+								<button class="btn btn-primary" 
+									data-bs-dismiss="modal">
+									<i class="fas fa-times fa-fw"></i> Close Window
+								</button>
 							</div>
 						</div>
 					</div>
